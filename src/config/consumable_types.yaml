@@ -1,0 +1,4 @@
+consumer:
+  types:
+    request:
+      service: App\Services\RequestService
